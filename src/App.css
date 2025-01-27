@@ -35,11 +35,12 @@ img {
     max-width: 100%;
 }
 
-@media screen and (min-width:76%) {
+@media screen and (min-width: 768px) {
 
     .boxes-container {
         flex-direction: row;
         width: 80%;
+        
     }
 
     #editor {
